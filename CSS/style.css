@@ -1,0 +1,879 @@
+
+
+@media (max-width: 480px){
+
+
+
+
+   
+
+     
+
+      
+     
+   
+
+     main {
+
+      position: relative;
+      right: 3px;
+     }
+
+
+    /* Inicio Header */
+
+
+
+    
+
+      /*  Usuario */
+      header :nth-child(4) {
+
+        position: relative;
+        left: 120px;
+        bottom: 5px;
+      }
+      
+      header a {
+
+        font-family: "Poppins";
+        font-weight: 500;
+        color: white;
+        font-size: 18px;
+
+        position: relative;
+        left: 170px;
+        bottom: 35px;
+
+        text-decoration: none;
+
+      }
+
+      /* Capivara */
+      header :nth-child(2) {
+        position: relative;
+        left: 110px;
+        bottom: 10px;
+      }
+
+      /* menu */
+      .hd1 :nth-child(1) {
+
+        position: relative;
+        left: 30px;
+        bottom: 25px;
+      }
+
+
+      .hd1{
+
+        position: relative;
+        bottom: 8px;
+        right: 10px;
+
+      
+        box-shadow: 0px 5px  10px white;
+        background-color: #521e94;
+        width: 495px;
+        
+        height: 70px;
+
+        z-index: auto;
+        
+
+      
+      }
+
+      .HD2 {
+
+      position:  relative;
+
+       
+      box-shadow: 2px 2px 10px black;
+       bottom: 28px;
+    
+        
+        background-color: #4e258a;
+        width: 495px;
+        height: 50px;
+      }
+
+      header input {
+
+
+        position: relative;
+        top: 7px;
+        right: 96px;
+
+        
+
+        width: 425px;
+        height: 35px;
+        border-radius: 18px;
+
+        
+        text-align: center;
+        font-size: 12px;
+        font-family: "Poppins";
+        color: #797979;
+        font-weight: 600;
+        
+      }
+    
+      /* Final Header */
+
+      
+    
+      
+      
+      main {
+          margin-top: 80px ;
+        }
+
+    
+
+
+
+        /*  I Card- 1 */
+
+        .card-1 {
+         
+            background-image: url(./brasilseta.png);
+            
+    
+
+            
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+
+            
+            
+            
+
+            height: 530px;
+            width: 430px;
+
+            
+
+            position: relative;
+            left: 22px;
+        }
+
+        .card-1 h1 {
+
+          font-family: "Poppins";
+          color: white;
+          font-weight: bold;
+          text-align: center;
+          font-size: 36px;
+
+          position: relative;
+          top: 25px;
+        }
+
+        .card-1 h5 {
+
+          font-family: "Poppins";
+          color: white;
+          font-weight: 500;
+          text-align: center;
+      
+          
+          font-size: 15px;
+
+          position: relative;
+          top: 30px;
+
+          
+          
+        }
+    
+
+        .card-1 img {
+
+          position: relative;
+          left: 180px;
+          margin-top: 30px;
+        }
+
+        .card-1 h4 {
+
+          margin-top: 20px;
+
+          position: relative;
+          bottom:10px;
+
+          font-family: "Poppins";
+          font-size: 15px;
+          color: white;
+          text-align: center;
+          font-weight: 400;
+        }
+        
+        .card-1 button {
+
+
+        position: relative;
+        left: 110px;
+        bottom: 10px;
+
+
+        word-spacing: 2px;
+
+          width: 230px;
+          height: 38px;
+          border-radius: 18px;
+          border: solid 1px #ef9644;
+          background-color:  #ef9644;
+          color: white;
+
+          font-family: "Poppins";
+          font-weight: 700;
+          font-size: 15px;
+          
+
+          box-shadow: 0px 2px 5px rgb(31, 29, 29);
+        }
+
+        /*  F Card- 1 */
+
+        /* I Card-2 */
+
+
+        .card-2 {
+
+          position: relative;
+          left: 22px;
+
+          margin-top: 50px;
+          background-color: #521e94;
+          width: 425px;
+          height: 330px;
+          border-radius: 14px;
+
+          font-family: "Poppins";
+        }
+
+        .card-2 h3 {
+
+
+          position: relative;
+          left: 115px;
+          bottom: 125px;
+
+          color: white;
+          font-weight: 600;
+          font-size: 23px;
+        }
+
+        .card-2 p {
+
+          color: white;
+          position: relative;
+          left: 115px;
+          bottom: 130px;
+          font-weight: 360;
+          text-align: left;
+          font-size: 17px;
+          word-spacing: 5px;
+        }
+
+        .card-2 :nth-child(1){
+
+
+
+          height: 120px;
+          position: relative;
+          top: 30px;
+
+        }
+
+        .card-2 :nth-child(4) {
+
+          position: relative;
+          bottom: 180px;
+          left: 5px;
+        }
+
+        /* F Card-2 */
+
+
+
+        /* I Card-3*/
+        .card-3  {
+
+
+
+          position: relative;
+          left: 22px;
+
+
+          background-color: #4e258a;
+
+          border-radius: 10px;
+          width: 415px;
+          height: 735px;
+        }
+
+        .p1 h2 {
+
+          font-family: "Poppins";
+          color: white;
+          text-align: center;
+          font-weight: 600;
+          font-size: 35px;
+
+          position: relative;
+          top: 20px;
+          
+        }
+
+        .p1  :nth-child(2) {
+          
+          font-family: "Poppins";
+          color: white;
+          text-align: center;
+
+          font-size: 20px;
+      
+          font-weight: 300;
+
+        }
+
+
+
+        /* Início Card-QR CODE LARANJA */
+        .card-org1 {
+
+
+          background-color: #ef9644;
+
+          border-radius: 10px;
+          width: 425px;
+          height:160px;
+
+          font-family: "Poppins";
+          color: white;
+          font-size: 16px;
+
+          box-shadow: 0px 3px 5px rgb(31, 29, 29);
+        }
+
+        .card-org1 p {
+
+          font-size: 13px;
+          font-weight: 430;
+
+          position: relative;
+          left: 10px;
+          bottom: 4px;
+
+        }
+
+
+        .card-org1 h2 {
+
+          
+          font-weight: 400;
+
+          position: relative;
+          left: 10px;
+          top: 10px;
+        }
+
+            .card-org1 img {
+
+          position: relative;
+          left: 320px;
+
+          bottom: 120px;
+        }
+        /* Final Card-QR CODE LARANJA */
+
+
+
+        /* Início CARD-PACOTES TUR ROXO*/
+        .card-rx {
+
+          
+          background-color: #6e30c4;
+
+          border-radius: 10px;
+          width: 425px;
+          height:160px;
+
+          font-family: "Poppins";
+          color: white;
+          font-size: 10px;
+
+          position: relative;
+          top: 14px;
+
+          box-shadow: 0px 3px 5px rgb(31, 29, 29);
+        }
+
+
+        .card-rx h2 {
+
+          font-weight: 400;
+          font-size: 24px;
+
+          position: relative;
+          left: 120px;
+          top: 15px;
+        }
+
+        .card-rx p {
+
+          position: relative;
+          bottom: 130px;
+
+          left: 120px;
+
+          font-weight: 430;
+
+          font-size: 13px;
+        }
+
+        .card-rx img {
+
+          position: relative;
+          bottom: 10px;
+
+        }
+        /* Final CARD-PACOTES TUR ROXO*/
+
+
+
+        /* Início CARD-TUR AO SEU ALCANCE LARANJA */
+
+        .card-org2 {
+
+
+
+
+          position: relative;
+          top: 25px;
+
+          background-color: #ef9644;
+
+          border-radius: 10px;
+          width: 425px;
+          height:160px;
+
+          font-family: "Poppins";
+          color: white;
+          font-size: px;
+          box-shadow: 0px 3px 5px rgb(31, 29, 29);
+
+        }
+
+        .card-org2 h2 {
+
+
+          font-weight: 400;
+
+          position: relative;
+          left: 10px;
+          top: 10px;
+        }
+
+
+        .card-org2 p {
+
+          font-size: 13px;
+          font-weight: 430;
+
+          position: relative;
+          left: 10px;
+          bottom: 4px;
+
+        }
+
+        .card-org2 img {
+
+          position: relative;
+          left: 320px;
+          bottom:126px;
+        }
+        /* fINAL CARD-TUR AO SEU ALCANCE LARANJA */
+
+
+        .ult {
+
+          position: relative;
+          top: 20px;
+          left: 2px;
+        }
+
+        /* F Card-3 */
+
+
+        /* Ínicio card-4 */
+
+
+        .card-4 {
+          position: relative;
+          left: 22px;
+          top: 60px;
+
+          border-radius: 10px;
+
+          background-color: #521e94;
+
+          width: 425px;
+          height: 440px;
+        }
+
+
+
+        .card-4 h1 {
+
+          font-family: "Poppins";
+          color: white;
+
+          position: relative;
+          left: 160px;
+          bottom: 120px;
+          
+
+          font-size: 28px;
+        }
+
+        .card-4 p {
+
+          font-family: "Poppins";
+
+          color: white;
+        
+
+          
+
+          position: relative;
+          left: 160px;
+          bottom:115px;
+          
+          word-spacing: 1px;
+
+          font-size: 17px;
+        }
+
+        .card-4 :nth-child(1) {
+
+          position: relative;
+          top: 55px;
+          left: 10px;
+          
+        }
+
+        .card-4 h6 {
+
+          position: relative;
+          bottom: 126px;
+          left: 275px;
+
+
+          font-family: "Poppins";
+          font-size: 15px;
+          color: white;
+          font-weight: 300;
+        }
+
+
+        .card-4 :last-child {
+
+          position: relative;
+ 
+          bottom: 195px;
+          left: 370px;
+
+        }
+
+        /* Final card-4 */
+
+        hr {
+
+          position: relative;
+          top: 80px;
+          right: 8px;
+
+        
+
+          width: 415px;
+
+          margin-top: 40px;
+          
+        }
+
+        /* Inico card-5 */
+
+
+        .card-5 {
+
+
+          position: relative;
+          left: 22px;
+          top: 105px;
+          bottom: 300px;
+          border-radius: 10px;
+
+          background-color: #521e94;
+
+          width: 425px;
+          height: 355px;
+
+
+        }
+
+
+        .card-5 :nth-child(2) {
+
+
+          position: relative;
+          left: 350px;
+          bottom: 60px;
+        }
+
+        .card-5 h5 {
+
+          font-family: "Poppins";
+          color: white;
+          font-weight: 600;
+          font-size: 21px;
+
+          position: relative;
+          top: 20px;
+          left: 15px;
+        }
+
+        .card-5 :nth-child(3) {
+
+
+          position: relative;
+          bottom: 350px;
+
+
+          right: 100px;
+
+          width: 644px;
+          height: 600px;
+
+          
+
+
+        }
+
+
+
+
+        .card-5 button {
+
+          width: 130px;
+          height: 32px;
+
+
+          border-radius: 6px;
+
+          border: solid 1px #ef9644;
+          background-color: #ef9644;
+
+          position: relative;
+          bottom: 440px;
+          left: 15px;
+
+          color: white;
+          font-family: "Poppins";
+          font-weight: 1000;
+        }
+
+        .card-5 :last-child {
+
+          position: relative;
+          bottom: 420px;
+          left: 220px;
+        }
+
+        /* Final card-5 */
+
+        /* Início Menu */
+
+
+        .menu {
+
+          position: relative;
+          top: 150px;
+          
+          left: 22px;
+
+          font-family: "Poppins";
+          color: white;
+          
+          font-size: 26px;
+        }
+
+
+
+        .mn-org {
+          border-radius: 3px;
+
+          width: 425px;
+          background-color: #ef9644;
+          height: 55px;
+        }
+
+        .mn-org h4 {
+          font-weight: 400;
+
+          position: relative;
+          top: 10px;
+          left: 10px;
+        }
+
+
+
+        .mn-rx {
+
+          
+          background-color: #521e94;
+          width: 425px;
+          height: 55px;
+          border-radius: 3px;
+        }
+
+        .mn-rx h4 {
+
+          font-weight: 400;
+
+          position: relative;
+          top: 10px;
+          left: 10px;
+          
+        }
+
+
+
+
+
+        /* Final Menu */
+
+
+
+
+
+
+
+
+
+        footer {
+
+
+          
+
+          position: relative;
+          top: 200px;
+          
+
+        
+          background-color: #521e94;
+
+          right: 10px;
+          width: 482px;
+          height: 250px;
+
+          
+
+        }
+
+         .hr {
+
+          position: relative;
+          bottom: 40px;
+        }
+
+        footer p {
+
+          font-family: "Poppins";
+          color: white;
+          font-weight: 400;
+
+          font-size: 14px;
+
+          position: relative;
+          bottom: 40px;
+          left:  140px;
+
+          
+        
+
+        }
+
+         .capivara {
+
+          position: relative;
+          
+          top: 80px;
+          left: 30px;
+        }
+
+        footer button {
+
+          position: relative;
+          left: 340px;
+          bottom: 140px;
+
+          width: 100px;
+          height: 30px;
+          border: solid 2px white;
+          border-radius: 9px;
+
+          background-color: #521e94;
+
+          font-family: "Poppins";
+          font-size: 11px;
+
+          color: white;
+
+        }
+
+        
+
+          .rds :nth-child(3){
+
+            position: relative;
+            left: 295px;
+            bottom: 125px;
+            
+          }
+
+
+          .rds :nth-child(2){
+
+            position: relative;
+            left: 320px;
+            bottom: 123px;
+          }
+
+          .rds :nth-child(1){
+
+            position: relative;
+            left: 335px;
+            bottom: 132px;
+            
+          }
+
+      
+        
+
+
+
+
+          
+        }
+        
+        
+        
+     
+    /* Rx 1: HEX : #521e94 */
+    /* Rx 2: HEX : #4e258a */
+    /* Laranja: HEX :HEX : #ef9644 */
+
